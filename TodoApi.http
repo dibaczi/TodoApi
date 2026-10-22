@@ -15,7 +15,6 @@ GET {{TodoApi_HostAddress}}/todoitems/1
 ###
 
 
-@id=0
 PUT {{TodoApi_HostAddress}}/todoitems/1
 Content-Type: application/json
 
